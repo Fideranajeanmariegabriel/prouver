@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Qual è il colore del cielo?",
+        "options": ["Blu", "Verde", "Rosso", "Giallo"],
+        "answer": "Blu"
+    },
+    {
+        "question": "Quanti giorni ci sono in una settimana?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+    },
+    {
+        "question": "Qual è la capitale d'Italia?",
+        "options": ["Milano", "Roma", "Venezia", "Napoli"],
+        "answer": "Roma"
+    }
+]
